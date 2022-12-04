@@ -80,6 +80,8 @@
 </p>
 
 <h2 align="center">Github Stats</h2>
-
+<p align="center">
 <img alt="Rhaym's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rhaym-tech&show_icons=true&theme=github_dark"/>
+<br>
 <img alt="Rhaym's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaym-tech&show_icons=true&theme=github_dark&langs_count=12"/>
+</p>
