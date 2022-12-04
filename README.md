@@ -21,22 +21,22 @@
   </a>
 </p>
 
-## Projects
+<h2 align="center">Projects</h2>
 
 <p align="center">
   <a href="https://github.com/rhaym-tech?tab=repositories"><img alt="Repositories" src="https://custom-icon-badges.demolab.com/badge/Check%20repostories-16-violet.svg?logo=repo&logoColor=white"/></a>
 </p>
 
-## Streak stats
+<h2 align="center">Streak Stats</h2>
 
 <p align="center">
   <img width="564" alt="Rhaym's streak" src="http://github-readme-streak-stats.herokuapp.com?user=rhaym-tech&theme=windows-dark&hide_border=true&mode=weekly"/>
 </p>
 
-## Skills
+<h2 align="center">Skills</h2>
 
-### Programming languages
-<p><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+<h3 align="center">Programming languages</h3>
+<p align="center"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
    <img alt="Bash" src="https://img.shields.io/badge/ACPI%20Source%20Language-blue?logo=acpi&logoColor=white">
    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
    <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
@@ -46,9 +46,9 @@
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
    <img alt="Dart" src="https://img.shields.io/badge/Dart-blue.svg?logo=dart&logoColor=white">
 
-### Markup languages
+<h3 align="center">Markup languages</h3>
 
-<p>
+<p align="center">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
@@ -56,18 +56,18 @@
     <img alt="XML" src="https://img.shields.io/badge/XML-e0982c.svg?logo=svg&logoColor=white">
 </p>
 
-### Frameworks and libraries
+<h3 align="center">Frameworks and Libraries</h3>
 
-<p>
+<p align="center">
     <img alt="IOKit" src="https://img.shields.io/badge/IOKit-20232a.svg?logo=apple&logoColor=white">
     <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-20232a.svg?logo=react&logoColor=%2361DAFB">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-blue.svg?logo=flutter&logoColor=white">
 </p>
 
 
-### Systems, software and tools
+<h3 align="center">Systems, softwares and tools</h3>
 
-<p>
+<p align="center">
     <img alt="Void Linux" src="https://img.shields.io/badge/Void%20Linux-50C878.svg?logo=vagrant&logoColor=white">
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-blue.svg?logo=kali-linux&logoColor=white">
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-ff7400?logo=ubuntu&logoColor=white">
@@ -79,7 +79,7 @@
     <img alt="XCode" src="https://img.shields.io/badge/Xode-blue.svg?logo=xcode&logoColor=white">
 </p>
 
-## Github stats
+<h2 align="center">Github Stats</h2>
 
-<img alt="Amine Neggazi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rhaym-tech&show_icons=true&theme=github_dark"/>
-<img alt="Amine Neggazi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaym-tech&show_icons=true&theme=github_dark&langs_count=12"/>
+<img alt="Rhaym's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rhaym-tech&show_icons=true&theme=github_dark"/>
+<img alt="Rhaym's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaym-tech&show_icons=true&theme=github_dark&langs_count=12"/>
