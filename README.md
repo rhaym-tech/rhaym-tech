@@ -76,7 +76,7 @@
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
     <img alt="Visual Studio" src="https://img.shields.io/badge/visualstudio-purple?logo=visualstudio&logoColor=white">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-    <img alt="XCode" src="https://img.shields.io/badge/Xode-blue.svg?logo=xcode&logoColor=white">
+    <img alt="XCode" src="https://img.shields.io/badge/Xcode-blue.svg?logo=xcode&logoColor=white">
 </p>
 
 <h2 align="center">Github Stats</h2>
