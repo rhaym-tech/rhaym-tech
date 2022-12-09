@@ -38,6 +38,7 @@
 <h3 align="center">Programming languages</h3>
 <p align="center"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
    <img alt="Bash" src="https://img.shields.io/badge/ACPI%20Source%20Language-blue?logo=acpi&logoColor=white">
+   <img alt="Shell" src="https://img.shields.io/badge/Shell%20scripting-gray?logo=shell&logoColor=white">
    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
    <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
    <img alt="Objective-C" src="https://custom-icon-badges.herokuapp.com/badge/Objective%20C-gold.svg?logo=apple&logoColor=black">
