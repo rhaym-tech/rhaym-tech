@@ -24,7 +24,7 @@
 <h2 align="center">Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/rhaym-tech?tab=repositories"><img alt="Repositories" src="https://custom-icon-badges.demolab.com/badge/Check%20repostories-18-violet.svg?logo=repo&logoColor=white"/></a>
+  <a href="https://github.com/rhaym-tech?tab=repositories"><img alt="Repositories" src="https://custom-icon-badges.demolab.com/badge/Check%20repostories-28-violet.svg?logo=repo&logoColor=white"/></a>
 </p>
 
 <h2 align="center">Streak Stats</h2>
