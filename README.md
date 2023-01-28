@@ -44,6 +44,7 @@
    <img alt="Objective-C" src="https://custom-icon-badges.herokuapp.com/badge/Objective%20C-gold.svg?logo=apple&logoColor=black">
    <img alt="Swift" src="https://custom-icon-badges.herokuapp.com/badge/Swift-FF4700.svg?logo=swift&logoColor=white">
    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white">
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
    <img alt="Dart" src="https://img.shields.io/badge/Dart-blue.svg?logo=dart&logoColor=white">
 
@@ -53,7 +54,6 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
     <img alt="XML" src="https://img.shields.io/badge/XML-e0982c.svg?logo=svg&logoColor=white">
 </p>
 
@@ -65,10 +65,20 @@
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-blue.svg?logo=flutter&logoColor=white">
 </p>
 
+<h3 align="center">APIs</h3>
+
+<p align="center">
+    <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI-412991.svg?logo=OpenAI&logoColor=white">
+    <img alt="DiscordAPI" src="https://img.shields.io/badge/DiscordAPI-5865F2.svg?logo=Discord&logoColor=white">
+    <img alt="OpenSea API" src="https://img.shields.io/badge/OpenSea-2081E2.svg?logo=opensea&logoColor=white">
+</p>
+
 
 <h3 align="center">Systems, softwares and tools</h3>
 
 <p align="center">
+    <img alt="RhaymOS" src="https://img.shields.io/badge/RhaymOS-FF0000.svg?logo=Revolut&logoColor=white">
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=Arch%20Linux&logoColor=white">
     <img alt="Void Linux" src="https://img.shields.io/badge/Void%20Linux-50C878.svg?logo=vagrant&logoColor=white">
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-blue.svg?logo=kali-linux&logoColor=white">
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-ff7400?logo=ubuntu&logoColor=white">
@@ -78,6 +88,7 @@
     <img alt="Visual Studio" src="https://img.shields.io/badge/visualstudio-purple?logo=visualstudio&logoColor=white">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
     <img alt="XCode" src="https://img.shields.io/badge/Xcode-blue.svg?logo=xcode&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 </p>
 
 <h2 align="center">Github Stats</h2>
