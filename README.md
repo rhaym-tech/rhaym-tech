@@ -14,7 +14,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Paypal-@RhaymTech-blue.svg?logo=paypal&logoColor=white" alt="Paypal">
   </a>
   <a href="#" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Follow%20me-7-red.svg?logo=follow&logoColor=white" alt="Follow">
+    <img src="https://custom-icon-badges.demolab.com/badge/Follow%20me-8-red.svg?logo=follow&logoColor=white" alt="Follow">
   </a>
   <a href="#" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Stars-15-green.svg?logo=star&logoColor=white" alt="Stars">
