@@ -7,17 +7,17 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/UchihaRhaym">
+  <a href="https://twitter.com/UchihaRhaym" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Twitter-@UchihaRhaym-blue.svg?logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.paypal.com/myaccount/transfer/homepage" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Paypal-@RhaymTech-blue.svg?logo=paypal&logoColor=white" alt="Paypal">
   </a>
-  <a href="#" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Follow%20me-8-red.svg?logo=follow&logoColor=white" alt="Follow">
+  <a href="https://github.com/rhaym-tech?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/badge/Follow%20me-11-red.svg?logo=follow&logoColor=white" alt="Follow">
   </a>
-  <a href="#" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Stars-15-green.svg?logo=star&logoColor=white" alt="Stars">
+  <a href="https://github.com/rhaym-tech?tab=stars">
+    <img src="https://custom-icon-badges.demolab.com/badge/Stars-20-green.svg?logo=star&logoColor=white" alt="Stars">
   </a>
 </p>
 
