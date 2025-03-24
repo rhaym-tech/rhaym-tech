@@ -7,9 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/UchihaRhaym" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Twitter-@UchihaRhaym-blue.svg?logo=twitter&logoColor=white" alt="Twitter">
-  </a>
   <a href="https://www.paypal.com/myaccount/transfer/homepage" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Paypal-@RhaymTech-blue.svg?logo=paypal&logoColor=white" alt="Paypal">
   </a>
@@ -61,12 +58,13 @@
 
 <p align="center">
     <img alt="IOKit" src="https://img.shields.io/badge/IOKit-20232a.svg?logo=apple&logoColor=white">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=next.js&logoColor=%ffffff">
     <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-20232a.svg?logo=react&logoColor=%2361DAFB">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-20232a.svg?logo=opencv">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-blue.svg?logo=flutter&logoColor=white">
 </p>
 
 <h3 align="center">APIs</h3>
-
 <p align="center">
     <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI-412991.svg?logo=OpenAI&logoColor=white">
     <img alt="DiscordAPI" src="https://img.shields.io/badge/DiscordAPI-5865F2.svg?logo=Discord&logoColor=white">
